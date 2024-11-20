@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\smrtphone 5.1.1.props" />
+</Project>
